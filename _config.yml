@@ -1,0 +1,8 @@
+title: AirSP32
+description: Open-source air suspension controller built on ESP32
+baseurl: ""
+url: "https://cbx0n.github.io/airSP32"
+theme: minima
+plugins:
+  - jekyll-feed
+favicon: /assets/images/favicon.ico
